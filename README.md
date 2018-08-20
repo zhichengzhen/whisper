@@ -1,2 +1,2 @@
 # whisper
-whisper project
+whisper project.
