@@ -1,3 +1,6 @@
 [submodule "android"]
 	path = android
 	url = https://github.com/karlstone/whisper-android.git
+[submodule "ios"]
+	path = ios
+	url = https://github.com/karlstone/whisper-ios.git

@@ -8,3 +8,8 @@ alias(
     name = "android",
     actual = "@com_github_karlstone_whisper_android//:whisper",
 )
+
+alias(
+    name = "ios",
+    actual = "@com_github_karlstone_whisper_ios//:whisper",
+)
